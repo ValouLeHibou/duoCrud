@@ -9,4 +9,4 @@ The BDD is : simpleCrudDB.sql
 
 # musicCRUD
 
-MusicCrud is a php code that display all BDD tables with all rows, it works with everything. 
+MusicCrud is a php code that display all BDD tables and rows with loops automaticaly, it works with everything kind of MYSQL BDD. 
